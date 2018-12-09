@@ -3,6 +3,10 @@
 
 
 int main() {
-    printf("printing...\n");
+    printf("       /|\n");
+    printf("      / |\n");
+    printf("     /  |\n");
+    printf("    /   |\n");
+    printf("   /____||\n");
     return 0;
 }
